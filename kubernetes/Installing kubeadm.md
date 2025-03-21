@@ -1,3 +1,3 @@
-pre-installation steps (H1)
+H1 pre-installation steps 
 ---
 Step1: set the Hostname on each node and Update /etc/hosts
